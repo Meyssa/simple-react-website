@@ -1,10 +1,10 @@
 import React from 'react';
-import PageWrapper from './components/PageWrapper';
+import PageWrapper from './components/Common/PageWrapper';
 import {BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 //Pages
-import Home from './components/Pages/Home';
-import About from './components/Pages/About';
+import Home from './Pages/Home';
+import About from './Pages/About';
 
 function App() {
   return (

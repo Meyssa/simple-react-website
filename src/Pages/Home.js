@@ -1,10 +1,10 @@
 import React , {Component} from "react";
-import Header  from "../Common/Header";
-import image from "../assets/img/header-bg.jpg"
+import Header  from "../components/Common/Header";
+import image from "../components/assets/img/header-bg.jpg"
 
 //Sections
-import Services from "../Common/Services";
-import Portfolio from "../Common/Portfolio";
+import Services from "../components/Common/Services";
+import Portfolio from "../components/Common/Portfolio";
 
 
 class Home extends Component {

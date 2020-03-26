@@ -1,6 +1,6 @@
 import React, {Component} from "react";
-import Header  from "../Common/Header";
-import image from "../assets/img/header-bg.jpg"
+import Header  from "../components/Common/Header";
+import image from "../components/assets/img/header-bg.jpg"
 
 class About extends Component {
 
